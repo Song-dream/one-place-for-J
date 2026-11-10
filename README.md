@@ -2,6 +2,8 @@
 
 一个**单文件**的个人工作台：不用安装、不用注册、不用服务器，双击 `index.html` 就能在浏览器里使用。所有数据保存在你自己的浏览器本地（localStorage），不上传到任何服务器。
 
+**在线体验**：https://song-dream.github.io/one-place-for-J/
+
 > 在线演示模式：打开 `index.html?demo=1`（可加 `&view=finance` 等参数直达某个页面）。演示模式完全隔离，不会写入任何真实数据。
 
 ## 功能一览
